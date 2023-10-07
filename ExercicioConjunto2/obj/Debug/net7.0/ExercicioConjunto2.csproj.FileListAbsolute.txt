@@ -1,0 +1,15 @@
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\bin\Debug\net7.0\ExercicioConjunto2.exe
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\bin\Debug\net7.0\ExercicioConjunto2.deps.json
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\bin\Debug\net7.0\ExercicioConjunto2.runtimeconfig.json
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\bin\Debug\net7.0\ExercicioConjunto2.dll
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\bin\Debug\net7.0\ExercicioConjunto2.pdb
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.csproj.AssemblyReference.cache
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.AssemblyInfoInputs.cache
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.AssemblyInfo.cs
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.csproj.CoreCompileInputs.cache
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.dll
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\refint\ExercicioConjunto2.dll
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.pdb
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ExercicioConjunto2.genruntimeconfig.cache
+D:\C#\Secao15-Generic\ExercicioConjunto2\ExercicioConjunto2\obj\Debug\net7.0\ref\ExercicioConjunto2.dll
